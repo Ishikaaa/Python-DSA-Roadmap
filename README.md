@@ -3,7 +3,6 @@
 ---
 
 ## 📌 Basics of Programming in Python  
-* Flowcharts  
 * Variables and Data Types  
 * Operators  
 * Conditional Statements  
@@ -16,11 +15,9 @@
 
 ## 📌 Important Data Structures  
 * List  
-* List Questions  
 * Slicing and List Comprehension  
 * 2D Lists  
 * Strings  
-* Questions on Strings  
 * Dictionary  
 * Sets  
 * Tuples  
@@ -33,7 +30,6 @@
 * Moore's Voting Algorithm  
 * Juggling Algorithm  
 * KMP Algorithm  
-* Miscellaneous Algorithms  
 
 ## 📌 Sorting and Complexities  
 * Time Complexity  
@@ -56,16 +52,91 @@
 
 ## 📌 Linked List  
 * Linked List Introduction  
-* Linked List Operations – Part 1  
-* Linked List Operations – Part 2  
+* Linked List Operations
 * Types of Linked List  
-* Questions on Linked List  
 * Merge Sort for Linked List  
 
 ## 📌 Stacks  
 * Stack Introduction  
 * Stack using Linked List  
-* Stack Questions  
 * Notations (Infix, Prefix, Postfix)  
 * Largest Rectangle in a Histogram  
-* Rainwater Trapping  
+* Rainwater Trapping
+
+## 📌 Queues  
+* Queue Introduction  
+* Stacks and Queues  
+
+## 📌 Trees  
+* Introduction to Trees  
+* Traversal of a Tree  
+* Level Order Traversal  
+* Left and Right View  
+* Top and Bottom View  
+* Construction of a Tree  
+* Burning a Tree  
+
+## 📌 Binary Search Trees (BST)  
+* Introduction to BST  
+* Insertion and Deletion  
+* Basic Problems on BST  
+* Balancing a BST  
+* Largest BST in a Binary Tree  
+
+## 📌 Heaps  
+* Heaps Introduction  
+* Heaps Implementation  
+* Heapify Algorithm  
+* Heap Sort  
+
+## 📌 Graphs  
+* Introduction to Graphs  
+* DFS  
+* BFS  
+* Cycle Detection in Undirected Graph  
+* Cycle Detection in Directed Graph  
+* Minimum Moves by a Knight  
+* Wired Connections  
+
+## 📌 Most Important Graph Algorithms  
+* Topological Sort  
+* Dijkstra's Algorithm  
+* MST using Prim's Algorithm  
+* DSU for Kruskal's Algorithm  
+* Kruskal's Algorithm  
+* Bellman-Ford Algorithm  
+* Floyd-Warshall Algorithm  
+
+## 📌 Greedy Algorithms  
+* Introduction to Greedy (Meeting Scheduling)  
+* Fractional Knapsack  
+
+## 📌 Backtracking and Dynamic Programming  
+* Backtracking Introduction (Rat in a Maze)  
+* N-Queen Problem  
+* Introduction to Dynamic Programming  
+* Knapsack Problem  
+* Coin Change  
+* LCS  
+* LCS Variations  
+* Longest AP  
+* Catalan Number  
+* Edit Distance  
+* Matrix Chain Multiplication  
+
+## 📌 Number Theory  
+* Sieve of Eratosthenes  
+* GCD of Two Numbers  
+* Modular Arithmetic and Binary Exponentiation
+
+---
+
+## 💬 Feedback & Suggestions
+
+If you have suggestions to improve this roadmap:
+- Open an Issue in this repository
+- Or connect with me on LinkedIn: [ishika-garg-ai](https://www.linkedin.com/in/ishika-garg-ai/)
+
+Your feedback helps improve this for everyone 🚀
+
+⭐ This roadmap will be updated regularly as the Generative AI ecosystem evolves.
