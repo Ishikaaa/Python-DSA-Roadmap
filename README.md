@@ -23,7 +23,7 @@
 * Tuples  
 
 ## 📌 Array and String Algorithms  
-* [Kadane's Algorithm] (https://www.youtube.com/watch?v=hLx5BpqPbRw)
+* [Kadane's Algorithm](https://www.youtube.com/watch?v=hLx5BpqPbRw)
 * 2D Kadane's Algorithm  
 * 2SUM and 3SUM Problems  
 * Dutch National Flag (DNF) Algorithm  
